@@ -1,4 +1,4 @@
-# atari_RL
+# Reinforcement Learning 
 
 Code to train and play deep Q networks on atari games with vector states and a finite set of actions, using Experience Replay.
 
