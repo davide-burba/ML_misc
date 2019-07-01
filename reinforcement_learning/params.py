@@ -18,7 +18,7 @@ PAUSE = 0.02
 
 ### Training parameters
 # episodes before training
-OBSERVATION_TIME = 0
+OBSERVATION_TIME = 1000
 # training episodes
 EXPLORATION_TIME = 5000
 # simulation episodes (total)
