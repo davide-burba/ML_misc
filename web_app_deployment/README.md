@@ -2,7 +2,7 @@
 
 Toy project to understand pipeline for web application based on deep learning models.
 
-Breakdance powermove classifier. The web application is available at: https://powermove-identifier.onrender.com
+Breakdance powermove classifier. The web application is available at: https://powermove-identifier.onrender.com [not active now]
 
 I used ResNet50 within fastai framework, following instructions given in https://course.fast.ai/videos/?lesson=2
 
